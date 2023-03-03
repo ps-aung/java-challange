@@ -45,6 +45,6 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 #### Your experience in Java
 
-- I have over 3 and half year experience in Java and But I knew Spring Boot very well.
+- I have over 3 and half year experience in Java and I knew Spring Boot very well.
 - But I didn't develop with Spring Boot around 1 and half year before current project.
 - I am making self studying in Spring Boot.
